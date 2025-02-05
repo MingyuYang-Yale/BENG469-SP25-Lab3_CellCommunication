@@ -21,7 +21,7 @@
 
 - Converting Single-Cell Atlases to Single-Cell Signaling Atlases. [[Tutorial](https://msraredon.github.io/NICHES/articles/02%20NICHES%20Single.html), [Code](https://yale.instructure.com/courses/88336/files/folder/10-3-2023%20_%20L3%20_%20scRNA-seq%20(3)%20cell-cell%20communication)]
 
-### NicheNet:
+### NicheNet (if time permits):
 
 - Perform NicheNet analysis starting from a Seurat object: step-by-step analysis. [[Tutorial](https://github.com/saeyslab/nichenetr/blob/master/vignettes/seurat_steps.md), [Code](https://yale.instructure.com/courses/88336/files/folder/10-3-2023%20_%20L3%20_%20scRNA-seq%20(3)%20cell-cell%20communication)]
 
