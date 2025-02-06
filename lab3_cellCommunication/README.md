@@ -10,7 +10,7 @@
 
 - We will run the analysis in a python jupyter notebook using google colab, click the badge below to launch the notebook:
 
-[![Colab](https://colab.research.google.com/drive/1kZpDN8_up_Cr7OQUpvGWfkPecJcue3UO#scrollTo=7Ief0Q8zUJcy)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kZpDN8_up_Cr7OQUpvGWfkPecJcue3UO#scrollTo=7Ief0Q8zUJcy)
 
 
 
